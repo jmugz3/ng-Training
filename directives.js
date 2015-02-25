@@ -1,5 +1,5 @@
 //DIRECTIVES
-ratingApp.directive("weatherReport",function(){
+weatherApp.directive("weatherReport",function(){
     return {
         restrict: 'E',
         templateUrl: 'directives/weatherReport.htm',

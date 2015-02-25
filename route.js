@@ -1,5 +1,5 @@
 //ROUTES
-ratingApp.config(function($routeProvider){
+weatherApp.config(function($routeProvider){
     
     $routeProvider
     .when('/', {
